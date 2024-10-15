@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makimakihub&label=Profile%20views&color=0e75b6&style=flat" alt="makimakihub" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA and spring**
 
 - 📫 How to reach me **mariaeduardarodriguesbrb@gmail.com**
 
